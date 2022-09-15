@@ -1,0 +1,457 @@
+
+html {
+
+	box-sizing: border-box;
+}
+
+/* con  este codigo se heredad la propiedada a todos los 
+elementos */
+
+*, *:before, *:after {
+
+	box-sizing: inherit;
+}
+
+body {
+
+
+	background-color: #0B0B61;
+	background-size: cover;
+	color: #fff;
+	font-size: 16px;
+
+
+	/*font-family: 'Oswald', sans-serif;*/
+}
+
+.wrap {
+
+	max-width: 1100px; 
+	width: 100%; /* para hacerlo responsivo */
+	margin: 0 auto; /* para centrarlo */
+
+}
+
+
+
+
+.anuncio {
+	width: 100%
+	height: auto;
+	background-color: orange;
+	padding: 10px;
+	
+	
+
+}
+
+div.publicidad div.banner1{
+
+	display: inline;
+}
+
+.logo {
+
+	width: 100px;
+}
+
+.enlace {
+
+	margin-left: 8px;
+}
+
+div a img.imagen{
+
+	width: 30%;
+	
+}
+
+div a img.imagenb{
+
+	width: 20%;
+	
+}
+
+div a img.imagen2{
+
+	width: 460px;
+	height: 60px;
+	
+}
+
+h2 {
+
+	color: brown;
+}
+
+h2.texto-titulo{
+
+	color: yellow;
+}
+
+div.linea1{
+
+	padding: 5px;
+}
+
+div.linea2{
+
+	padding: 5px;
+}
+
+div.linea3{
+
+	padding: 5px;
+}
+
+div.linea4{
+
+	padding: 5px;
+}
+
+div.linea5{
+
+	padding: 5px;
+}
+
+div.linea6{
+
+	padding: 5px;
+}
+
+div.linea7{
+
+	padding: 5px;
+}
+
+div.linea8{
+
+	padding: 5px;
+}
+
+div.linea9{
+
+	padding: 5px;
+}
+
+div.linea10{
+
+	padding: 5px;
+}
+
+
+div.game1{
+
+	display: inline;
+}
+
+div.game2{
+
+	display: inline;
+}
+
+
+div.game3{
+
+	display: inline;
+}
+
+div.game4{
+
+	display: inline;
+}
+
+div.game5{
+
+	display: inline;
+}
+
+div.game6{
+
+	display: inline;
+}
+
+div.game7{
+
+	display: inline;
+}
+
+div.game8{
+
+	display: inline;
+}
+
+div.game9{
+
+	display: inline;
+}
+
+div.game10{
+
+	display: inline;
+}
+
+@media only screen and (max-width:400px){
+
+	.juego{
+
+		margin-left: 5px;
+	}
+
+}
+
+@media only screen and (max-width:767px){
+
+	.wrap {
+
+		width: 100%;
+
+	}
+
+
+	div.anuncio{
+		
+		width: 100%
+		
+	}
+
+	div.anuncio a img.imagen-anuncio{
+
+		width: 100%;
+	}
+
+
+	div.banner1 a img.imagen-banner1{
+
+	width: 100%;
+
+	}
+
+
+	div.banner1b a img.imagen-banner2{
+
+	width: 100%;
+
+	}
+
+
+
+	div.principal{
+
+		width: 100%;
+		height: auto;
+	}
+
+	div.linea1{
+
+	padding: 3px;
+}
+
+div.linea2{
+
+	padding: 3px;
+}
+
+div.linea3{
+
+	padding: 3px;
+}
+
+div.linea4{
+
+	padding: 3px;
+}
+
+div.linea5{
+
+	padding: 3px;
+}
+
+div.linea6{
+
+	padding: 3px;
+}
+
+div.linea7{
+
+	padding: 3px;
+}
+
+div.linea8{
+
+	padding: 3px;
+}
+
+div.linea9{
+
+	padding: 3px;
+}
+
+div.linea10{
+
+	padding: 3px;
+}
+
+
+div.game1{
+
+	display: block;
+	padding: 4px;
+}
+
+div.game2{
+
+	display: block;
+	padding: 4px;
+}
+
+
+div.game3{
+
+	display: block;
+	padding: 4px;
+}
+
+div.game4{
+
+	display: block;
+	padding: 4px;
+}
+
+
+div.game5{
+
+	display: block;
+	padding: 4px;
+}
+
+div.game6{
+
+	display: block;
+	padding: 4px;
+}
+
+div.game7{
+
+	display: block;
+	padding: 4px;
+}
+
+div.game8{
+
+	display: block;
+	padding: 4px;
+}
+
+div.game9{
+
+	display: block;
+	padding: 4px;
+}
+
+div.game10{
+
+	display: block;
+	padding: 4px;
+}
+
+
+div.game1 a img.imagen-juego{
+
+	width: 100%;
+}
+
+div.game2 a img.imagen-juego{
+
+	width: 100%;
+}
+
+div.game3 a img.imagen-juego{
+
+	width: 100%;
+}
+
+div.game4 a img.imagen-juego{
+
+	width: 100%;
+}
+
+
+div.game5 a img.imagen-juego{
+
+	width: 100%;
+}
+
+div.game6 a img.imagen-juego{
+
+	width: 100%;
+}
+
+div.game7 a img.imagen-juego{
+
+	width: 100%;
+}
+
+div.game8 a img.imagen-juego{
+
+	width: 100%;
+}
+
+div.game9 a img.imagen-juego{
+
+	width: 100%;
+}
+
+div.game10 a img.imagen-juego{
+
+	width: 100%;
+}
+
+
+
+
+
+div.banner3 a img.imagen-banner3{
+
+	width: 100%;
+
+	}
+
+
+div.banner2 a img{
+
+	width: 50%;
+}
+
+div.banner4 a img{
+
+	width: 100%;
+}
+
+}
+
+
+.principal {
+
+	padding: 30px;
+	border: 8px solid orange;
+	width: 1048px;
+	height: auto;
+}
+
+div.borde1 {
+
+	/*border: 4px solid yellow; */
+}
+
+div.footer{
+
+	width: 100%;
+	background-color: orange;
+	height: 80px;
+}
+
+
+
+
+

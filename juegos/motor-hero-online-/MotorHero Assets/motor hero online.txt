@@ -1,0 +1,41 @@
+Motor Hero Online!
+
+Motor Hero! is an arcade platformer where you control a bike and try to advance in a dangerous world in a setting where the tiniest mistake can make you fall right into the water. Escape the enemies at high speed evading bullets and missiles in awesomes jumps. Collect stars and unlock new bikes, and beat all scores.
+
+Genre:	Motorhero , game, rider , bike , kiz10, tricks , skins, jump, action
+
+Age Rating:	All
+Keywords:	Motorhero, game, awesome , bike, kiz10, rider , skins, endless, action
+Requires:	HTML5
+File Size:	7MB
+Game Dimensions:	All dimensions, scalable
+
+	
+Short Description: Motor Hero! is an arcade platformer where you control a bike and try to advance in a dangerous world
+
+Gameplay: https://youtu.be/lWcBwoCTmew
+
+GD Link: https://html5.gamedistribution.com/05df60bcbe824f0dad462144f6664644/
+
+iFrame URL :
+
+https://cdn.kiz10.com/upload/games/htmlgames/motor-hero-online!-2019/1562215142/index.html
+
+Desktop iframe embed code [you can change size width x height of container] :
+
+<iframe src="https://cdn.kiz10.com/upload/games/htmlgames/motor-hero-online!-2019/1562215142/index.html" scrolling="no" style="width:100%;height:100%;border:0;overflow:hidden;"></iframe>
+
+Mobile iframe embed code [fullscreen] :
+
+<iframe src="https://cdn.kiz10.com/upload/games/htmlgames/motor-hero-online!-2019/1562215142/index.html" scrolling="no" style="border:0;height: 1px; min-height: 100%;width: 1px; min-width: 100%;"></iframe> 
+
+
+PS: Do not block the outgoing links of the game and / or its advertising, if you do this, it causes fewer online games every day, the games are very expensive to not receive traffic or advertising revenue, if you carry on or persist with these practices , all our games will be blocked on your sites, thanks
+
+
+Thanks to those who, with your collaboration, help to keep developing new games every day.
+
+
+
+
+

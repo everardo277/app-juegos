@@ -1,0 +1,25 @@
+Maserati Gran Turismo 2018
+
+The new Maserati 2018 is called Gran Turismo! The northern Italians took some time to develop the Maserati GT, but it seems that it was worth it. Run on this beast with a 4.2-liter V8 engine with an amazing 405 HP power. Earn money and go running in more complex circuits and against better rivals.
+
+
+800x450
+
+
+https://html5.gamedistribution.com/afb3d463d26a4cf7bb52533971b4e6bf/
+
+
+
+
+iFrame URL :
+
+//cdn.kiz10.com/upload/games/htmlgames/maserati-gran-turismo-2018/index.html
+
+
+Desktop iframe embed code [you can change size width x height of container] :
+
+<iframe src="//cdn.kiz10.com/upload/games/htmlgames/maserati-gran-turismo-2018/index.html" scrolling="no" style="width:100%;height:100%;border:0;overflow:hidden;"></iframe>
+
+Mobile iframe embed code [fullscreen] :
+
+<iframe src="//cdn.kiz10.com/upload/games/htmlgames/maserati-gran-turismo-2018/index.html" scrolling="no" style="border:0;height: 1px; min-height: 100%;width: 1px; min-width: 100%;"></iframe> 

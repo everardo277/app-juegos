@@ -1,0 +1,49 @@
+Red Ball Forever
+
+The new redball forever is here! Save the world from the monsters, and complete all levels but it’s harder when you have no arms or legs! Now Red must bounce, float, and roll his way around Black Ball’s fiendish traps to find the end, and complete all levels. Collect lot stars and unlock awesome skins for the ball
+
+
+Genre:	redball , game, forever , adventure , kiz10, platformer , skins, jump, action
+
+Age Rating:	All
+Keywords:	redball, game, awesome , adventure, kiz10, forever , skins, endless, action
+Requires:	HTML5
+File Size:	9MB
+Game Dimensions:	All dimensions, scalable
+
+
+	
+Short Description: The new redball forever is here! Save the world from the monsters
+
+
+Gameplay: https://youtu.be/re_YBgPbSUU
+
+
+GD Link : https://html5.gamedistribution.com/dc7eea27033344bcb0dd85686e16bc86/
+
+
+iFrame URL :
+
+https://cdn.kiz10.com/upload/games/htmlgames/red-ball-forever-2019/1560959247/index.html
+
+Desktop iframe embed code [you can change size width x height of container] :
+
+<iframe src="https://cdn.kiz10.com/upload/games/htmlgames/red-ball-forever-2019/1560959247/index.html" scrolling="no" style="width:100%;height:100%;border:0;overflow:hidden;"></iframe>
+
+Mobile iframe embed code [fullscreen] :
+
+<iframe src="https://cdn.kiz10.com/upload/games/htmlgames/red-ball-forever-2019/1560959247/index.html" scrolling="no" style="border:0;height: 1px; min-height: 100%;width: 1px; min-width: 100%;"></iframe> 
+
+
+PS: Do not block the outgoing links of the game and / or its advertising, if you do this, it causes fewer online games every day, the games are very expensive to not receive traffic or advertising revenue, if you carry on or persist with these practices , all our games will be blocked on your sites, thanks
+
+
+Thanks to those who, with your collaboration, help to keep developing new games every day.
+
+
+
+
+
+
+
+

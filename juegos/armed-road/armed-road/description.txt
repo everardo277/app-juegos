@@ -1,0 +1,25 @@
+Armed Road
+
+The city is in danger! Gangsters are dominating and criminals in everywhere! Drive your heavy-armed car, hit the road, and cleanse your beloved city from dirty gangsters!
+
+
+Scalable desktop and mobile devices
+
+
+Gameplay: https://youtu.be/51aXuaDICuw
+
+GD Link: https://html5.gamedistribution.com/b8d09aaea9244678806256ca65155d8a/
+
+
+
+iFrame URL : 
+
+https://cdn.kiz10.com/upload/games/htmlgames/armed-road-2018/1548809219/index.html 
+
+Get Image Desktop iframe embed code [you can change size width x height of container] :
+
+<iframe src="https://cdn.kiz10.com/upload/games/htmlgames/armed-road-2018/1548809219/index.html" scrolling="no" style="width:100%;height:100%;border:0;overflow:hidden;"></iframe>
+
+Mobile iframe embed code [fullscreen] :
+
+<iframe src="https://cdn.kiz10.com/upload/games/htmlgames/armed-road-2018/1548809219/index.html" scrolling="no" style="border:0;height: 1px; min-height: 100%;width: 1px; min-width: 100%;"></iframe>

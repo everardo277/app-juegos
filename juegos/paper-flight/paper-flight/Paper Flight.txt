@@ -1,0 +1,37 @@
+Paper Flight
+	
+- Follow adventurous journey through the view of a paper airplane. Collect lucky stars to help you improve the paperplane. Throw the paperplane, travel further now, and discover new places!
+
+Instructions:
+- Mouse Or Touch
+	
+
+Keywords: plane, fly, air, sky, upgrade, minimalist
+
+Requires: Web browser/ Mobile browser 
+
+
+File Size: 11,0 mb	
+
+Game Dimensions: 800 x 550 pixels
+
+Short Description:
+- Follow adventurous journey through the view of a paper airplane!
+
+Walkthrough: https://youtu.be/MRukcGyA8ws
+
+GD Link: https://html5.gamedistribution.com/d5ad6e62578b4018817d9f35f59b893b/
+
+
+
+iFrame URL :
+
+https://cdn.kiz10.com/upload/games/htmlgames/paper-flight-2019/1552445922/index.html
+
+Desktop iframe embed code [you can change size width x height of container] :
+
+<iframe src="//cdn.kiz10.com/upload/games/htmlgames/paper-flight-2019/1552445922/index.html" scrolling="no" style="width:100%;height:100%;border:0;overflow:hidden;"></iframe>
+
+Mobile iframe embed code [fullscreen] :
+
+<iframe src="//cdn.kiz10.com/upload/games/htmlgames/paper-flight-2019/1552445922/index.html" scrolling="no" style="border:0;height: 1px; min-height: 100%;width: 1px; min-width: 100%;"></iframe> 

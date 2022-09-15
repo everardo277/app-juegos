@@ -1,0 +1,36 @@
+Stickman Vector
+	
+Challenge yourself through torturing platforms with a lot of deadly traps. Learn all kinds of useful moves and tricks, such as wall climbing, perfect timing, pushing crates to clear every obstacle along the way. Prepare your best strategy to finish each stages.
+
+Instructions:
+- left/Right Arrow Key to move, up arrow key to jump and down arrow key to sliding
+
+Genre: Action
+
+Age Rating: everyone	
+
+Keywords: fun, platform, stick, obstacle, trap, spike, jump
+
+Requires: Web browser/ Mobile browser 	
+
+Game Dimensions: 600 x 800 pixels
+
+Short Description:
+- Challenge your stickman through torturing platforms with a lot of deadly traps
+
+Walkthrough: https://youtu.be/ixbDilk_flc
+
+GD Link : https://html5.gamedistribution.com/ff53ec402f42403f9202d06208b43cb1/
+
+
+iFrame URL :
+
+https://cdn.kiz10.com/upload/games/htmlgames/stickman-vector-2018/1542963874/index.html
+
+Desktop iframe embed code [you can change size width x height of container] :
+
+<iframe src="https://cdn.kiz10.com/upload/games/htmlgames/stickman-vector-2018/1542963874/index.html" scrolling="no" style="width:100%;height:100%;border:0;overflow:hidden;"></iframe>
+
+Mobile iframe embed code [fullscreen] :
+
+<iframe src="https://cdn.kiz10.com/upload/games/htmlgames/stickman-vector-2018/1542963874/index.html" scrolling="no" style="border:0;height: 1px; min-height: 100%;width: 1px; min-width: 100%;"></iframe> 

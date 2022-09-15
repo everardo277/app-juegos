@@ -1,0 +1,41 @@
+Subway Runner
+
+Run fast and faster on the railway like nothing gonna stop you. Avoid objects, get power-ups, and collect gold coins!
+
+Instructions:
+- Keyboard Or Touch
+- Keyboard : left arrow key or right arrow key to move, up arrow key to jump and down arrow key to sliding.
+- Touch : Swipe Left or Right to move, swipe up to jump and swipe down to sliding.
+
+Genre: Action
+
+Age Rating: 13+	
+
+Keywords: runner, infinite, surfer, run, jump, train
+
+Requires: Web browser/ Mobile browser 
+
+File Size: 10,5 mb	
+
+Game Dimensions: 525x 700 pixels
+
+Short Description:
+- Run fast and faster on the railway like nothing gonna stop you!
+
+Walkthrough: https://youtu.be/V7mOQVxyB4g
+
+GD Link : https://html5.gamedistribution.com/110aa3e19951427eab8ec3305389ded7/
+
+
+iFrame URL :
+
+https://cdn.kiz10.com/upload/games/htmlgames/subway-runner-2018/1540348377/index.html
+
+Desktop iframe embed code [you can change size width x height of container] :
+
+<iframe src="//cdn.kiz10.com/upload/games/htmlgames/subway-runner-2018/1540348377/index.html" scrolling="no" style="width:100%;height:100%;border:0;overflow:hidden;"></iframe>
+
+Mobile iframe embed code [fullscreen] :
+
+<iframe src="//cdn.kiz10.com/upload/games/htmlgames/subway-runner-2018/1540348377/index.html" scrolling="no" style="border:0;height: 1px; min-height: 100%;width: 1px; min-width: 100%;"></iframe> 
+

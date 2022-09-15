@@ -1,0 +1,41 @@
+Space Frontier online
+
+Blast off for the stratosphere with Space frontier, the addictive physics rocket game that beat all conquest games.
+Your mission is to launch your rocket as high into orbit as possible. Simple touches control when you release each stage in your rocket. 
+Earn in-game currency from successful launches and spend it to acquire new parts and styles.
+
+Genre:	Space , Launch, game, rocket, upgrades, nasa, mars
+
+Age Rating:	All
+Keywords:	Rocket,mars,upgrades,html5,kiz10,nasa,planets,score,bonus
+Requires:	HTML5
+File Size:	6MB
+Game Dimensions:	All dimensions, scalable
+
+
+	
+Short Description: Your mission is to launch your rocket as high into orbit as possible.
+
+Gameplay: https://youtu.be/j1xkBsrbmM8
+
+
+
+iFrame URL :
+
+https://cdn.kiz10.com/upload/games/htmlgames/space-frontier-online-2017/1513806760/index.html
+
+Desktop iframe embed code [you can change size width x height of container] :
+
+<iframe src="//cdn.kiz10.com/upload/games/htmlgames/space-frontier-online-2017/1513806760/index.html" scrolling="no" style="width:100%;height:100%;border:0;overflow:hidden;"></iframe>
+
+Mobile iframe embed code [fullscreen] :
+
+<iframe src="//cdn.kiz10.com/upload/games/htmlgames/space-frontier-online-2017/1513806760/index.html" scrolling="no" style="border:0;height: 1px; min-height: 100%;width: 1px; min-width: 100%;"></iframe> 
+
+
+
+
+
+
+
+
